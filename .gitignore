@@ -130,3 +130,12 @@ dmypy.json
 
 # Artifacts
 src/me.jpg
+.DS_Store
+node_modules
+src/data/
+src/model/
+*/labels.txt
+package-lock.json
+*/*.tflite
+.vscode/
+.vs/
