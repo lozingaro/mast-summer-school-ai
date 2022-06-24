@@ -128,4 +128,16 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Artifacts
+src/me.jpg
 .DS_Store
+node_modules
+src/data/
+src/model/
+src/sample_data/
+src/small.png
+*/labels.txt
+package-lock.json
+*/*.tflite
+.vscode/
+.vs/
